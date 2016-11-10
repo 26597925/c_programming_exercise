@@ -18,4 +18,4 @@ int main()
 	printf_s("它们的最大公约数为：%d\n", n);
 	printf_s("它们的最小公倍数为：%d\n", p / n);
 	return 0;
-}
+}//

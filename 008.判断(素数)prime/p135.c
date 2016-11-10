@@ -11,4 +11,4 @@ int main() {
 	else printf_s("%d is a prime number.\n", a);
 	return 0;
 
-}
+}//

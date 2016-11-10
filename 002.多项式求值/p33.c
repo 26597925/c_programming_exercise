@@ -19,3 +19,4 @@ int main() {
 	printf_s("the result is:%f\n", sum);
 	return 0;
 }
+//

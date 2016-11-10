@@ -18,4 +18,4 @@ int main()
 	}
 	printf("字母数为：%d\n 空格数为:%d\n 数字数为：%d\n 其他字符输为：%d\n", letters, space, digit, other);
 	return 0;
-}
+}//

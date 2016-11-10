@@ -10,4 +10,4 @@ int main() {
 	}
 	printf("total=%d\n", x1);
 	return 0;
-}
+}//

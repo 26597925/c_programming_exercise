@@ -12,6 +12,6 @@ int main() {
 	}
 	pi = pi * 4;
 	printf("循环次数是:%d\n", a);
-	printf_s("pi=%10.8f\n", pi);			//%m.nf指定数据宽度和小数位数
+	printf_s("pi=%10.8f\n", pi);			///%m.nf指定数据宽度和小数位数
 	return 0;
 }

@@ -10,4 +10,4 @@ int main() {
 		printf("%-6d",f[i]);
 	}
 	return 0;
-}
+}//

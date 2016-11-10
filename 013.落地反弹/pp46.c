@@ -11,4 +11,4 @@ int main() {
 	printf("第%d次落地时共经过%f米\n", j, sn);
 	printf("第%d次落地反弹了%f米\n", j,hn);
 	return 0;
-}
+}//
