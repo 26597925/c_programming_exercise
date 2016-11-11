@@ -10,7 +10,6 @@ int main() {
 			printf("%c", space);
 		for (k = 0; k < 5; k++)
 			printf("%c", a[k]);
-	}
-	printf("\n");
+	}	printf("\n");
 	return 0;
 }
