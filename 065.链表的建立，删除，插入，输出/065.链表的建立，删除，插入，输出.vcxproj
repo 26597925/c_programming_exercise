@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DD879F0A-C3DD-431C-9F72-C946564879BF}</ProjectGuid>
-    <RootNamespace>My064输入统计并输出10个学生数据</RootNamespace>
+    <ProjectGuid>{D0BDB267-4AAC-429B-B46C-5932EADB03CE}</ProjectGuid>
+    <RootNamespace>My065链表的建立，删除，插入，输出</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="pp134.c" />
+    <ClCompile Include="pp147.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "063.输入并输出5位学�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "064.输入统计并输出10个学生数据", "064.输入统计并输出10个学生数据\064.输入统计并输出10个学生数据.vcxproj", "{DD879F0A-C3DD-431C-9F72-C946564879BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "065.链表的建立，删除，插入，输出", "065.链表的建立，删除，插入，输出\065.链表的建立，删除，插入，输出.vcxproj", "{D0BDB267-4AAC-429B-B46C-5932EADB03CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -781,6 +783,16 @@ Global
 		{DD879F0A-C3DD-431C-9F72-C946564879BF}.Release|x64.Build.0 = Release|x64
 		{DD879F0A-C3DD-431C-9F72-C946564879BF}.Release|x86.ActiveCfg = Release|Win32
 		{DD879F0A-C3DD-431C-9F72-C946564879BF}.Release|x86.Build.0 = Release|Win32
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Debug|x64.ActiveCfg = Debug|x64
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Debug|x64.Build.0 = Debug|x64
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Debug|x86.Build.0 = Debug|Win32
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Release|x64.ActiveCfg = Release|x64
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Release|x64.Build.0 = Release|x64
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Release|x86.ActiveCfg = Release|Win32
+		{D0BDB267-4AAC-429B-B46C-5932EADB03CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
